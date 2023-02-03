@@ -2,18 +2,21 @@
 
 mio testo
 
-## BIOGRAFIA
-bla bla
+## BIOGRAPHY
+hello bros.
 
 
-## LAVORI FATTI
+## MY WORKS
 
--lavoro 1
--lavoro 2
--lavoro 3
+- lavoro 1
+- lavoro 2
+- lavoro 3
 
 
-# CONTATTI
+# CONTACTS
 
+- sebastiano.wave@gmail.com
 [MIO SITO](https://www.instagram.com/seba_b.png/)
+
+![image](https://media.tenor.com/sQXkvagqfWYAAAAM/lol-funny-memes.gif)
 
